@@ -1,4 +1,4 @@
-# 💰 Smart Expense Tracker
+# 💰 **[Smart Expense Tracker](https://smartexpensetracker-py.streamlit.app/)**
 
 A full-stack expense tracking web application built using Python, Streamlit, and SQLite with analytics dashboard and PDF report generation.
 
