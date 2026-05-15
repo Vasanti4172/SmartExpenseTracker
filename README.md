@@ -50,3 +50,8 @@ Users can download a complete financial report including:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+---
+## 💰 Smart Expense Tracker
+
+🔗 Live Demo: https://smartexpensetracker-py.streamlit.app/
