@@ -44,14 +44,23 @@ Users can download a complete financial report including:
 - Detailed transaction list
 
 ---
-
 ## 🧑‍💻 How to Run
 
+### ▶ Run Locally
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 ---
-## 💰 Smart Expense Tracker
 
-🔗 Live Demo: https://smartexpensetracker-py.streamlit.app/
+
+## 🌐 🚀 LIVE DEMO (BEST WAY TO VIEW PROJECT)
+
+> 💡 Click below to access the deployed application instantly:
+
+### 🔗 👉 **[Smart Expense Tracker Live App](https://smartexpensetracker-py.streamlit.app/)**
+
+✔ No installation required  
+✔ Works on mobile & desktop  
+✔ Fully functional dashboard
